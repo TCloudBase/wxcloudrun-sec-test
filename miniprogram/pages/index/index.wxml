@@ -1,0 +1,7 @@
+<view style="display: flex;">
+	<button disabled="{{btndis}}" class="start" type="default" bindtap="startwss">云托管WSS方法</button>
+	<button disabled="{{btndis}}" class="start" type="default" bindtap="starthttp">云托管HTTP方法</button>
+</view>
+
+<view class="show">{{now}}</view>
+<view class="show"><text>{{res}}</text></view>

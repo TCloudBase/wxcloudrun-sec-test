@@ -1,0 +1,20 @@
+page {
+	display: flex;
+	flex-direction: column;
+	width: 100%;
+	background-color: #f5f5f5;
+  }
+  
+  .start {
+	font-size: 28rpx;
+	padding: 20rpx 0;
+	margin: 30rpx 0;
+	border-radius: 0 !important;
+  }
+  
+  .show {
+	width: 100%;
+	margin: 20px auto;
+	background: #FFFFFF;
+	font-size: 28rpx;
+  }
